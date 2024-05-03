@@ -23,7 +23,7 @@ printf %s "server {
         index index.html index.htm;
     }
     location /redirect_me {
-        return 301 http://cuberule.com/;
+        return 301 https://github.com/CJ-ONYERO99/;
     }
     error_page 404 /404.html;
     location /404 {
