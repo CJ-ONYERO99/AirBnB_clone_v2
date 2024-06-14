@@ -99,6 +99,9 @@ Usage: update <class_name> <_id>
 
 ###### Example 0: Show all User objects
 Usage: <class_name>.all()
+
+Updated By:
+Onyero Chimezie Joshua <chimeziejoshuaonyero999@gmail.com>
 ```
 (hbnb) User.all()
 ["[User] (99f45908-1d17-46d1-9dd2-b7571128115b) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 34, 92071), 'id': '99f45908-1d17-46d1-9dd2-b7571128115b', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 34, 92056)}", "[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
